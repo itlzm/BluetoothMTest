@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:3:2-22
+		INJECTED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:3:47-72
+		INJECTED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:3:23-46
+		INJECTED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:4:2-80
+	android:targetSdkVersion
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:4:12-41
+	android:minSdkVersion
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:4:42-68
+application
+ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:5:2-13:16
+	android:label
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:5:45-77
+	android:icon
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:5:15-44
+activity#com.qin.bt.MainActivity
+ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:6:3-11:14
+	android:label
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:6:52-84
+	android:name
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:6:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:7:4-10:20
+action#android.intent.action.MAIN
+ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:8:5-57
+	android:name
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:8:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:9:15-62
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:15:2-65
+	android:name
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:15:19-62
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:16:2-71
+	android:name
+		ADDED from /Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/src/main/AndroidManifest.xml:16:19-68

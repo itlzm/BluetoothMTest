@@ -1,0 +1,7 @@
+#Sun Apr 02 02:51:38 CST 2017
+base.0=/Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e0a5c184e973ef20a3ed2daa2bf1e8095f51e097
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_15a116bbd1c2fa62b27d3e7242d19a8b651867a6/classes.dex
+base.1=/Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_15a116bbd1c2fa62b27d3e7242d19a8b651867a6
+file.0=/Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e0a5c184e973ef20a3ed2daa2bf1e8095f51e097/classes.dex
