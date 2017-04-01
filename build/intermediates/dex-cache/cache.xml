@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="073c4ad3fe1247c63226c1da7340f02b32e5318c">
+        <dex dex="/Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e0a5c184e973ef20a3ed2daa2bf1e8095f51e097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/jieshi/Documents/AndroidStudioProjects/BluetoothMTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_15a116bbd1c2fa62b27d3e7242d19a8b651867a6/classes.dex" />
+    </item>
+
+</items>
